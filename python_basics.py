@@ -1,4 +1,4 @@
-"""monday = 50
+monday = 50
 Tuesday = 50
 
 Avg = (monday + Tuesday)/2
@@ -39,7 +39,7 @@ for i in range(1,11,2):
     print(i,"\n")
 
 for i in range(20,0,-1):
-    print(i, end=" ")"""
+    print(i, end=" ")
 
 def add(a,b):
     sum = a+b

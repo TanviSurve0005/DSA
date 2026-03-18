@@ -1,4 +1,4 @@
-"""n=5
+n=5
 i=1
 
 while i<=n:
@@ -26,8 +26,7 @@ def fun(n):
         return
     fun(n-1)
     print(n, end=" ")
-fun(3)"""
-
+fun(3)
 
 def gcd(a,b):
     if b==0:
