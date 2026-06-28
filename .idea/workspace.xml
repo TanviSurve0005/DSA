@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb27e948-9f81-46e9-9f97-7509783088b3" name="Changes" comment="Basics of python and Recursion for DSA">
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
+    <list default="true" id="fb27e948-9f81-46e9-9f97-7509783088b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +33,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python._pydev_execfile.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.dsa_problems.executor": "Run",
+    "Python.interviewPrep.executor": "Run",
     "Python.python_basics.executor": "Run",
     "Python.recurssion.executor": "Run",
     "Python.sets.executor": "Run",
+    "Python.tcspractise.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -60,6 +62,28 @@
       <option name="presentableId" value="Default" />
       <updated>1773572794069</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dictionary and sets">
+      <option name="closed" value="true" />
+      <created>1774463947024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774463947024</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python basics revision">
+      <option name="closed" value="true" />
+      <created>1782416637594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782416637595</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dictionary and sets" />
+    <MESSAGE value="Python basics revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python basics revision" />
   </component>
 </project>
