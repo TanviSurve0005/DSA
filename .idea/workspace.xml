@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb27e948-9f81-46e9-9f97-7509783088b3" name="Changes" comment="">
+    <list default="true" id="fb27e948-9f81-46e9-9f97-7509783088b3" name="Changes" comment="Python basics revision">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa_problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dsa_problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interviewPrep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/interviewPrep.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2d8f4d6d-e70f-4649-bf6e-3b84d94f580e" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -31,21 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python._pydev_execfile.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.dsa_problems.executor": "Run",
-    "Python.interviewPrep.executor": "Run",
-    "Python.python_basics.executor": "Run",
-    "Python.recurssion.executor": "Run",
-    "Python.sets.executor": "Run",
-    "Python.tcspractise.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dsa_problems.executor&quot;: &quot;Run&quot;,
+    &quot;Python.interviewPrep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recurssion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tcspractise.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ts395\PycharmProjects\DSA\Python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,8 +88,35 @@
       <option name="project" value="LOCAL" />
       <updated>1782416637595</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Python basics revision">
+      <option name="closed" value="true" />
+      <created>1782670387321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782670387321</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Python basics revision">
+      <option name="closed" value="true" />
+      <created>1782670593876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782670593876</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dictionary and sets" />
