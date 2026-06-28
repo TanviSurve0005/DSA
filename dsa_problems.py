@@ -1,5 +1,5 @@
 # Palindrom check
-"""def is_palindrom(s):
+def is_palindrom(s):
     s = s.lower().replace("", "")
     return s == s[::-1]
 
@@ -63,7 +63,7 @@ print(find_duplicates([1,3,4,5,6,2,2,1,4,6,3]))
 def count_vowels(s):
     return sum(1 for ch in s.lower() if ch in "aeiou")
 
-print(count_vowels("fgyudjhdhcfxdtseyaaaaa"))"""
+print(count_vowels("fgyudjhdhcfxdtseyaaaaa"))
 
 #Word frequency Counter
 def word_freq(sentence):
